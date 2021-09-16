@@ -1,4 +1,4 @@
-package Lesson21;
+package Tregulov.Lesson21;
 
 public class TestNew {
     Test1 t1 = new Test1();

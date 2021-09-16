@@ -1,4 +1,4 @@
-package TestArrays;
+package Tregulov.TestArrays;
 
 public class Test1 {
     public static void main(String[] args) {

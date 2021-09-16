@@ -1,6 +1,6 @@
-package Lesson24.P2;
+package Tregulov.Lesson24.P2;
 
-import Lesson24.P1.*;
+import Tregulov.Lesson24.P1.*;
 
 public class Y extends X {
     public void abc(){

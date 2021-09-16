@@ -1,7 +1,6 @@
-package Lesson30;
+package Tregulov.Lesson30;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Test1 {
 

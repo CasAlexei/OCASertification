@@ -1,4 +1,4 @@
-package Lesson20;
+package Tregulov.Lesson20;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Lesson24.P1;
+package Tregulov.Lesson24.P1;
 
 public class X {
     protected void abc(){

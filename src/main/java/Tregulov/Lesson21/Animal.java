@@ -1,4 +1,4 @@
-package Lesson21;
+package Tregulov.Lesson21;
 
 public class Animal {
     public Animal(){

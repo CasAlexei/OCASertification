@@ -1,4 +1,4 @@
-package Lesson22;
+package Tregulov.Lesson22;
 
 public class Test1 {
     public static void main(String[] args) {

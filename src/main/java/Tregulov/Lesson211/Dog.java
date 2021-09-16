@@ -1,6 +1,6 @@
-package Lesson211;
+package Tregulov.Lesson211;
 
-import Lesson21.Animal;
+import Tregulov.Lesson21.Animal;
 
 public class Dog extends Animal {
     Dog(){

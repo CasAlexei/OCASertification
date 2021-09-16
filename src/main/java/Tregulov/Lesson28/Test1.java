@@ -1,4 +1,4 @@
-package Lesson28;
+package Tregulov.Lesson28;
 
 import java.io.File;
 import java.io.FileInputStream;
