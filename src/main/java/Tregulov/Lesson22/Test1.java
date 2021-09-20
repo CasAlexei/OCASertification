@@ -43,8 +43,9 @@ class Employee{
     String name;
     int age = 100;
     double salary;
+
     Employee(){
-//        System.out.println("Constructor Employee");
+        System.out.println("Constructor Employee");
     }
     void eat(){
         System.out.println("Employee eats");
@@ -56,7 +57,7 @@ class Doctor extends Employee{
     int age = 200;
     double salary = 500.0;
     Doctor(){
-//        System.out.println("Constructor Doctor");
+        System.out.println("Constructor Doctor");
     }
 
     @Override
