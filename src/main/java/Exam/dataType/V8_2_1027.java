@@ -11,8 +11,7 @@ public class V8_2_1027 {
     public static void main(String[] args){
         Integer dataWrapper = new Integer(5);
         Integer value = wiggler(dataWrapper);
-//        dataWrapper++;
+        dataWrapper++;
         System.out.println(dataWrapper+value);
-        System.out.println(1.5 != (float)1.5);
     }
 }

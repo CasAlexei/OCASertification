@@ -44,7 +44,7 @@ class Employee{
     int age = 100;
     double salary;
 
-    Employee(){
+    Employee( ){
         System.out.println("Constructor Employee");
     }
     void eat(){

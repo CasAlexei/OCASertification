@@ -1,4 +1,4 @@
-package IgorOCA.chapter6;
+package IgorOCA.chapterII6;
 
 public class Problem6_1 {
 }

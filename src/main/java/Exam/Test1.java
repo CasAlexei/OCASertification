@@ -13,6 +13,7 @@ public class Test1 {
         b = bB;
 //        bB = Boolean.TRUE;
         System.out.println(b);
-        System.out.println(bB);;
+        System.out.println(bB);
+        
     }
 }
